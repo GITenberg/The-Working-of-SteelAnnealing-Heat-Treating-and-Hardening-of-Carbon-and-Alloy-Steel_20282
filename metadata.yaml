@@ -29,6 +29,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'TS'
 - !lcsh 'Steel'
+- GITenberg
 title: 'The Working of Steel
 
   Annealing, Heat Treating and Hardening of Carbon and Alloy Steel'
